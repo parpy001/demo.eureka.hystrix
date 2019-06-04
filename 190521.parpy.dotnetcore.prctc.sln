@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parpy.dotnetcore.prctc.Web", "parpy.dotnetcore.prctc.Web\parpy.dotnetcore.prctc.Web.csproj", "{A37CE21E-9CA8-40A3-857F-F24DC0D71B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parpy.dotnetcore.prctc.microservice1", "parpy.dotnetcore.prctc.microservice1\parpy.dotnetcore.prctc.microservice1.csproj", "{6E0B5835-BC02-419E-8F9A-9295782123C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parpy.dotnetcore.prctc.microservice2", "parpy.dotnetcore.prctc.microservice2\parpy.dotnetcore.prctc.microservice2.csproj", "{6C1DA3FE-7F5E-436E-AA8D-93F81F186DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parpy.dotnetcore.prctc.microservice3", "parpy.dotnetcore.prctc.microservice3\parpy.dotnetcore.prctc.microservice3.csproj", "{5B8378C9-206A-459D-BA97-80DD47F13226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A37CE21E-9CA8-40A3-857F-F24DC0D71B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37CE21E-9CA8-40A3-857F-F24DC0D71B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37CE21E-9CA8-40A3-857F-F24DC0D71B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37CE21E-9CA8-40A3-857F-F24DC0D71B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0B5835-BC02-419E-8F9A-9295782123C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0B5835-BC02-419E-8F9A-9295782123C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0B5835-BC02-419E-8F9A-9295782123C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0B5835-BC02-419E-8F9A-9295782123C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1DA3FE-7F5E-436E-AA8D-93F81F186DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1DA3FE-7F5E-436E-AA8D-93F81F186DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1DA3FE-7F5E-436E-AA8D-93F81F186DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1DA3FE-7F5E-436E-AA8D-93F81F186DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8378C9-206A-459D-BA97-80DD47F13226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8378C9-206A-459D-BA97-80DD47F13226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8378C9-206A-459D-BA97-80DD47F13226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8378C9-206A-459D-BA97-80DD47F13226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {432BF4E0-CBF6-4372-B3A1-38BA6FB55499}
+	EndGlobalSection
+EndGlobal
